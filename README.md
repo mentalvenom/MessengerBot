@@ -1,5 +1,5 @@
 MessengerBot<br/>
-**/pins {channel_id}** - Shows pinned messages
+**/pins {channel_id}** - Shows pinned messages</br>
 **/help {dm/web}** - Brings up this page
 **/more-help {command}** - Help on certain commands
 **/lyrics {artist}, {song}** - Shows lyrics to song
