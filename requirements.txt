@@ -1,33 +1,32 @@
 git+git://github.com/Rapptz/discord.py.git@async#egg=discord for Discord.py
-import discord
-import asyncio
-import os
-from random import choice
-from threading import Thread
-from googletrans import Translator
-from flask import Flask
-from random import randint
-import wolframalpha
-import time
-from async_timeout import timeout
-import websockets
-import ujson
-import requests
-from bs4 import BeautifulSoup
-from urllib.request import urlopen
-import urllib.request
-import re
-import sys
-import aiohttp
-from datetime import datetime
-import datetime
-import imdb
-import lyricwikia
-import urllib.parse
-from pyfiglet import Figlet
-import random
-import subprocess
-import string
-import hashlib
-from discord.utils import get
-import socket
+discord
+asyncio
+os
+random
+threading
+googletrans
+flask
+random
+wolframalpha
+time
+async_timeout
+websockets
+ujson
+requests
+bs4
+urllib.request
+re
+sys
+aiohttp
+datetime
+datetime
+imdb
+lyricwikia
+urllib.parse
+pyfiglet
+random
+subprocess
+string
+hashlib
+discord.utils
+socket
