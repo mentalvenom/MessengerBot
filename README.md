@@ -17,6 +17,6 @@
 **/rps <rock/paper/scissors>** - Plays a rps game</br>
 **/emoji {emoji}** - Pastes an emoji from your query</br>
 **/info** - Brings up status information</br>
-**/poll {desc1} +{desc2} {etc.}** - Starts a poll</br>
+**/poll {desc1} +{desc2} +{etc.}** - Starts a poll</br>
 **/password {length}** - creates a random password</br>
 **/reverse {text}** - reverses text you input</br>
