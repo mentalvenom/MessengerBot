@@ -1,4 +1,4 @@
-MessengerBot<br/>
+<strong>MessengerBot</strong><br/>
 **/pins {channel_id}** - Shows pinned messages</br>
 **/help {dm/web}** - Brings up this page</br>
 **/more-help {command}** - info on a certain command</br>
